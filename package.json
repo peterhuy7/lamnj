@@ -1,0 +1,17 @@
+{
+  "name": "uiuio",
+  "version": "1.0.0",
+  "description": "lamsite",
+  "main": "server.js",
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "NodeJS",
+    "Server"
+  ],
+  "author": "shimojuju@gmail.com",
+  "license": "ISC"
+}
